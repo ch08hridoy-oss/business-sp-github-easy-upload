@@ -1,0 +1,7 @@
+business-sp-brand-showreel.mp4 <- /mnt/data/business-sp-video-samples/Business_SP_Promo_Final_Merged.mp4
+wireless-earbuds-product-ad.mp4 <- /mnt/data/business-sp-video-samples/Woman_Earbuds_Inserting_First_Displaying_Second_Final.mp4
+beauty-product-showcase.mp4 <- /mnt/data/business-sp-video-samples/Presenter_showing_cosmetic_bottle_20261012122553.mp4
+kwan-loong-oil-commercial.mp4 <- /mnt/data/business-sp-video-samples/Kwan_Loong_Oil_commercial_animation_20261013120011.mp4
+wellness-product-campaign.mp4 <- /mnt/data/business-sp-video-samples/Business_SP_Knee_Pain_With_Background_Sound_Final.mp4
+personal-care-product-commercial.mp4 <- /mnt/data/business-sp-video-samples/Business_SP_Condom_Commercial_Logo_Final.mp4
+business-sp-logo-outro.mp4 <- /mnt/data/business-sp-video-samples/Business_SP_logo_outro_animation_20261012131747(2).mp4
